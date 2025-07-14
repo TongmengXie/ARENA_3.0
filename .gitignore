@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+chapter3_llm_evals/instructions
+
 # C extensions
 *.so
 
